@@ -1,0 +1,9 @@
+18-05-2020 21:16:43.086 [Gauge] [INFO] Watching directory: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs
+18-05-2020 21:16:43.086 [Gauge] [DEBUG] Found 1 files
+18-05-2020 21:16:43.086 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-05-2020 21:16:43.087 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-05-2020 21:16:43.087 [Gauge] [DEBUG] Adding specs from /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec
+18-05-2020 21:16:43.087 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-05-2020 21:16:43.088 [Gauge] [INFO] Starting language runner
+18-05-2020 21:16:43.288 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
