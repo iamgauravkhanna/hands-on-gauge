@@ -1,0 +1,8 @@
+19-05-2020 20:43:50.220 [Gauge] [INFO] Watching directory: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs
+19-05-2020 20:43:50.220 [Gauge] [DEBUG] Found 1 files
+19-05-2020 20:43:50.221 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-05-2020 20:43:50.221 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-05-2020 20:43:50.221 [Gauge] [DEBUG] Adding specs from /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec
+19-05-2020 20:43:50.221 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-05-2020 20:43:50.222 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63166
+19-05-2020 20:49:39.762 [Gauge] [INFO] Spec file added / modified: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec

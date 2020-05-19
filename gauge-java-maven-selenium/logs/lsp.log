@@ -7,3 +7,50 @@
 18-05-2020 21:16:43.088 [Gauge] [INFO] Starting language runner
 18-05-2020 21:16:43.288 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
 Error : exit status 1
+18-05-2020 21:17:13.094 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+18-05-2020 21:17:13.094 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+18-05-2020 21:17:13.095 [Gauge] [INFO] Connection closed
+18-05-2020 21:17:13.095 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+18-05-2020 21:17:13.095 [Gauge] [ERROR] request #0: initialize: jsonrpc2: connection is closed
+19-05-2020 20:40:02.939 [Gauge] [INFO] Watching directory: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs
+19-05-2020 20:40:02.940 [Gauge] [DEBUG] Found 1 files
+19-05-2020 20:40:02.940 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-05-2020 20:40:02.942 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-05-2020 20:40:02.942 [Gauge] [DEBUG] Adding specs from /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec
+19-05-2020 20:40:02.942 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-05-2020 20:40:02.943 [Gauge] [INFO] Starting language runner
+19-05-2020 20:40:03.214 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+19-05-2020 20:40:11.877 [Gauge] [INFO] Watching directory: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs
+19-05-2020 20:40:11.878 [Gauge] [DEBUG] Found 1 files
+19-05-2020 20:40:11.878 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-05-2020 20:40:11.879 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-05-2020 20:40:11.879 [Gauge] [DEBUG] Adding specs from /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec
+19-05-2020 20:40:11.879 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-05-2020 20:40:11.879 [Gauge] [INFO] Starting language runner
+19-05-2020 20:40:12.001 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+19-05-2020 20:40:17.619 [Gauge] [INFO] Watching directory: /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs
+19-05-2020 20:40:17.619 [Gauge] [DEBUG] Found 1 files
+19-05-2020 20:40:17.620 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-05-2020 20:40:17.620 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-05-2020 20:40:17.620 [Gauge] [DEBUG] Adding specs from /Users/gaurav.khanna/repo/hands-on-gauge/gauge-java-maven-selenium/specs/example.spec
+19-05-2020 20:40:17.620 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-05-2020 20:40:17.621 [Gauge] [INFO] Starting language runner
+19-05-2020 20:40:17.820 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+19-05-2020 20:40:32.950 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+19-05-2020 20:40:32.951 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+19-05-2020 20:40:32.953 [Gauge] [INFO] Connection closed
+19-05-2020 20:40:32.953 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+19-05-2020 20:40:41.881 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+19-05-2020 20:40:41.881 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+19-05-2020 20:40:41.882 [Gauge] [INFO] Connection closed
+19-05-2020 20:40:41.882 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+19-05-2020 20:40:47.627 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+19-05-2020 20:40:47.627 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+19-05-2020 20:40:47.653 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
